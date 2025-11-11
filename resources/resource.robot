@@ -15,4 +15,4 @@ Failure Application
 Setup Application
     [Documentation]    Keyword to set up and open the application before each test.
     Register Keyword To Run On Failure    Failure Application
-    Open Application    ${APPIUM_URL}    &{ANDROID_CAPABILITIES}
+    Open Application    ${APPIUM_URL}    &{ANDROID_CAPABILITIES}   appium:app=${EXECDIR}${APP}
