@@ -1,0 +1,5 @@
+Appium-Python-Client
+robotframework
+robotframework-appiumlibrary
+selenium
+robotframework-debuglibrary
