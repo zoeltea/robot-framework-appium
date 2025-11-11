@@ -1,6 +1,5 @@
 *** Settings ***
 Library    AppiumLibrary  15  run_on_failure=Log Source
-Library    ../custom_libraries/ConfigurationReader.py
 Variables  ../resources/capabilities/android_caps.py
 
 *** Keywords ***
